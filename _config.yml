@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: HNR NetSci Satellite event
+logo: /images/logo.png
+Description: Historical Network Research at NetSci 2025
+markdown: kramdown
