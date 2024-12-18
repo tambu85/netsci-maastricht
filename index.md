@@ -1,4 +1,7 @@
 # HNR at NetSci
+
+<img src="images/hnr header modern-min.png">
+
 ## Maastricht 2025
 
 ### Website under construction
