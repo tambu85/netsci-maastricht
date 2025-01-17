@@ -10,19 +10,13 @@ DEADLINE: February 24th
 
 We invite abstracts of published / unpublished / in progress work for short talks and/or posters to present at the satellite symposium. The scope includes but is not limited to:
 
-Networks methods applied to historical datasets
-
-Network-based data modeling
-
-Prosopographical Networks
-
-Visualisations and analysis of networks
-
-Multilayer or interconnected network representations
-
-Temporality representations of historical datasets 
-
-Incompleteness of historical datasets
+- Comparison and integration of various historical datasets
+- Network representation of prosopographical or relational data
+- Temporal analysis and the selection of time steps
+- Addressing data incompleteness and inferred information
+- Understanding the evolution of societies and historical structures
+- Visualisations techniques for historical network data
+- Best practices, methods, and tools for network-based historical analysis
 
 *Please send your contribution at events@historicalnetworkresearch.org with subject "submission histonet2025".*
 
