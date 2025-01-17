@@ -2,7 +2,7 @@
 
 <img src="images/hnr header modern-min.png">
 
-## Maastricht 2025
+## HISTONET at Maastricht 2025
 
 ### Website under construction
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas leo urna, mollis vel ante in, vulputate laoreet nibh. Phasellus blandit posuere odio, ut gravida massa ultrices sit amet. Sed scelerisque aliquam lorem, eu rhoncus urna consequat eu. Fusce convallis, turpis at faucibus tempus, erat sem ultricies odio, nec dapibus augue velit nec mi. Integer sit amet facilisis turpis, eu efficitur purus. Pellentesque turpis sem, vulputate nec lacus id, pharetra rhoncus nibh. Aliquam gravida congue justo, in lacinia nisl consequat in. Donec a tellus nec ligula dapibus imperdiet. Nam condimentum eros feugiat dolor efficitur, ut luctus sem consectetur. Integer mollis risus sed tempus hendrerit. Sed sodales nulla felis. Sed quis diam nec urna sagittis scelerisque. Duis rhoncus ipsum ut est imperdiet, ac tristique nibh scelerisque. Duis aliquet semper tincidunt. Praesent faucibus quis sem id tincidunt. Donec eros dui, accumsan ultricies consectetur ut, porttitor a urna.
