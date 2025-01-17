@@ -3,11 +3,11 @@
 <img src="images/hnr header modern-min.png">
 
 ## HISTONET - Satellite Event at NetSci2025 (Maastricht, June 2-6)
-This workshop aims at bringing together researchers active in studying applications of networks in historical research to discuss state-of-the-art, share knowledge across disciplines, and create opportunities for novel and fruitful collaborations. 
+This session aims at bringing together researchers active in studying applications of networks in historical research to discuss state-of-the-art, share knowledge across disciplines, and create opportunities for novel and fruitful collaborations. 
 
 ### Call for Abstracts
 
-We invite abstracts of published / unpublished / in progress work for short talks and/or posters to present at the satellite symposium. The scope includes but is not limited to:
+We invite abstracts of published / unpublished / in progress work for short talks to present at the satellite symposium. The scope includes but is not limited to:
 
 - Comparison and integration of various historical datasets
 - Network representation of prosopographical or relational data
